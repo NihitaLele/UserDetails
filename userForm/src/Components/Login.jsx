@@ -32,7 +32,6 @@ const Login = () => {
             setPassword(e.target.value);
           }}
           type="text"
-          name=""
           id="logPassword"
         />
       </div>
