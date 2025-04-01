@@ -60,7 +60,6 @@ const userRegister = ()=>{
             setPassword(e.target.value)
           }}
           type="text"
-          name=""
           id="signPassword"
           placeholder="Enter a password"
         />
